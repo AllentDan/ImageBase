@@ -8,7 +8,6 @@
   .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
   .tg .tg-kyy7{background-color:#f9f9f9;border-color:inherit;text-align:center;vertical-align:middle}
   </style>
-</head>
 <table class="tg">
 <thead>
   <tr>
@@ -166,3 +165,4 @@
   </tr>
 </tbody>
 </table>
+</head>
